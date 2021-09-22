@@ -43,6 +43,19 @@
 
 <br/>  
 
+## Pinned Repositories  
+<tr><td valign="top" width="100%">
+  
+<div align="center">  
+  <a href="https://github.com/stanroy/doggo-facts"><b> Doggo Facts</b> </a> |
+  <a href="https://github.com/stanroy/weeb-peep"><b> WeebPeep </b> </a> |
+  <a href="https://github.com/stanroy/PokeShuffle-Android-App"><b> PokeShuffle </b> </a> |
+  <a href="https://github.com/stanroy/todo-task-manager"><b> ToDo Task Manager </b> </a>
+  </div>
+</td></tr>
+  
+<br />
+
 
 ## Connect with me  
 <div align="center">
