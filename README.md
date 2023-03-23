@@ -1,23 +1,22 @@
 <div align="center">
-<img src="https://c.tenor.com/u8Jj7tBu3DMAAAAC/kanye-west-smile.gif" align="center" width="200" />
+<img src="https://media.tenor.com/QtAcnojaJwUAAAAC/gintoki-smirk.gif" align="center" width="400" />
 </div>  
   
   <br/>  
 
-### <div align="center">Hey , I'm Stanroy, an aspiring mobile developer 👨‍💻 </div>  
+### <div align="center">Hey, I'm Stanroy </div>  
 
 <br/>  
   
 
+- 👨‍💻 I'm a mobile developer
+
 - 🔭 I’m currently working on expanding my android development skills  
   
-
-- 🌱 I’m currently learning about Jetpack Compose, as well as Testing  
+- 🌱 I’m learning more about Jetpack Compose, as well as trying out Flutter
   
-
-- ♥️ My hobbies include: Gym, Video Games, Game Development ( Godot ) and a little bit of 3D Modeling ( Blender )  
+- ♥️ My hobbies include: Gym, Video Games, Game Development ( Godot ), and a little bit of 3D Modeling ( Blender )  
   
-
 - ⚡ Fun fact: Light mode is not that bad... ok I'm just kidding  
   
 
@@ -47,8 +46,8 @@
 <tr><td valign="top" width="100%">
   
 <div align="center">  
-  <a href="https://github.com/stanroy/doggo-facts"><b> Doggo Facts</b> </a> |
-  <a href="https://github.com/stanroy/weeb-peep"><b> WeebPeep </b> </a> |
+<!--   <a href="https://github.com/stanroy/doggo-facts"><b> Doggo Facts</b> </a> | -->
+<!--   <a href="https://github.com/stanroy/weeb-peep"><b> WeebPeep </b> </a> | -->
   <a href="https://github.com/stanroy/PokeShuffle-Android-App"><b> PokeShuffle </b> </a> |
   <a href="https://github.com/stanroy/todo-task-manager"><b> ToDo Task Manager </b> </a> |
   <a href="https://github.com/stanroy/ld49-spanner-fever"><b> Ludum Dare 49 </b> </a>
