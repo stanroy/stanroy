@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/kwjdxUiw1JgAAAAC/android-meme.gif" align="center" width="400" />
+<!-- <img src="https://media.tenor.com/kwjdxUiw1JgAAAAC/android-meme.gif" align="center" width="400" /> -->
 </div>  
   
   <br/>  
